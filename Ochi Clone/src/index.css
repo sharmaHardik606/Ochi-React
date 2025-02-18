@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'Founders Grotesk';
+    src: url('Ochi Clone\public\fonts\FoundersGrotesk.ttf') format('truetype');
+    font-weight: 600; 
+    font-style: normal;
+  }
